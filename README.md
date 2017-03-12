@@ -6,3 +6,7 @@ module connected to an Arduino UNO board each which is the brain of the organiza
 Sensor placed on the lid of the tank.
 
 You also get a call as a notification after the motor is switched ON/OFF.   
+<br><br>
+Youtube link: https://www.youtube.com/watch?v=imE0Ni0wgyk<br>
+Instrucatbles link: https://www.instructables.com/id/Poseidon-the-Water-Saver/
+
